@@ -10,3 +10,5 @@ Keeping last mile goal of having predictive model in mind, we used different dat
 Techniques: Predictive Modelling, Machine learning, Hyperparameter tuning
 Tools: Python, Tableau
 Domain: Marketing and Retail Analytics
+
+Analysis shows that it is possible to predict a site visitors buying behavior within a certain level of confidence based on the features we were able to pull from the data set. Considering the real time usage of the proposed system, achieving better or similar classification performance with minimal subset of features is an important factor for the e-commerce companies since a smaller number of features will be kept track during the session. XGBoost model turned out to be the best model overall.
